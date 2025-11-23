@@ -1,5 +1,7 @@
 **EventVerse: The Ultimate College Event Hub**
 
+![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Home.jpg)
+
 An all-in-one interactive web platform designed to centralize, manage, and promote college events, connecting students, college authorities, and event coordinators for seamless participation and administration.
 
 ### Short Description / Purpose
