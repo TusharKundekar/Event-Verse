@@ -1,6 +1,6 @@
 **EventVerse: The Ultimate College Event Hub**
 
-![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot1.jpg
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot1.jpg)
 ![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot2.jpg)
 ![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot3.jpg)
 ![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot4.jpg)
