@@ -1,6 +1,22 @@
 **EventVerse: The Ultimate College Event Hub**
 
-![Dashboard Preview](https://github.com/TusharKundekar/Spotify-with-Power-BI-AI/blob/main/Home.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot1.jpg
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot2.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot3.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot4.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot5.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot6.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot7.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot8.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot9.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot10.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot11.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot12.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot13.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot14.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot15.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Event-Verse/blob/main/Snapshot16.jpg)
+
 
 An all-in-one interactive web platform designed to centralize, manage, and promote college events, connecting students, college authorities, and event coordinators for seamless participation and administration.
 
